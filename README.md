@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cascoale43@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alfx.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LvzhinX)
 
 </div>
 
@@ -53,15 +53,15 @@
 
 ## 📊 GitHub
 
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alfx.dev&theme=dark&hide_border=false) | ![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU-USERNAME&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8) |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alfx.dev&theme=dark&hide_border=false) | ![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LvzhinX&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8) |
 |---|---|
 
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=Alfx.dev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=LvzhinX&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 <div align="center">
 
-![Visitas](https://komarev.com/ghpvc/?username=Alfx.dev&color=green&style=flat-square&label=Visitas+al+perfil)
+![Visitas](https://komarev.com/ghpvc/?username=LvzhinX&color=green&style=flat-square&label=Visitas+al+perfil)
 
 </div>
